@@ -4,7 +4,7 @@ python对地铁客流量进行预测  Python predicts subway ridership
 <p align="center">
   <sub>
     Built with ❤︎ by
-    <a href="https://github.com/chenruhai">chenruhai</a>, 
+    <a href="https://github.com/TonyEinstein">Tony Einstein</a>, 
     and the community!
   </sub>
 </p>
